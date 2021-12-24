@@ -18,3 +18,9 @@ body
   position: relative;
   width: 450px;
 }
+
+.inputBox h2
+{
+  font-size: 35px;
+  color: rgb(196, 27, 27);
+}
