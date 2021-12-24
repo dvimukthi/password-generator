@@ -62,3 +62,8 @@ body
   padding: 10px 15px;
   border-radius: 15px;
 }
+
+.inputBox #btn:active
+{
+  background: orangered;
+}
