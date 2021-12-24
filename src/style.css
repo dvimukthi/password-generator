@@ -12,3 +12,9 @@ body
   min-height: 100vh;
   background-color: chocolate;
 }
+
+.inputBox
+{
+  position: relative;
+  width: 450px;
+}
